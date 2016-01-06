@@ -1,0 +1,11 @@
+{
+  "name": "bealsconjecture",
+  "version": "1.0.0",
+  "description": "Runs through iterations of Beal's Conjecture.",
+  "main": "index.js",
+  "dependencies": {
+	"bignumber.js": "^2.1.4"
+  },
+  "author": "Lance Whatley",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+var Beal = module.exports = require("./libs/Beal.js");
