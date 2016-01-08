@@ -11,7 +11,7 @@ Andy Beal, the creator, is currently offering anyone who can prove or disprove t
 Really only one method meant to be called.
 
 ```js
-var Beal = require("bealsconjecture");
+var Beal = require("./libs/Beal.js");
 
 new Beal().checkMany();
 ```
