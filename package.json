@@ -4,7 +4,7 @@
   "description": "Runs through iterations of Beal's Conjecture.",
   "main": "index.js",
   "dependencies": {
-	"bignumber.js": "^2.1.4"
+    "bignumber.js": "^2.1.4"
   },
   "author": "Lance Whatley",
   "license": "ISC"
