@@ -73,7 +73,7 @@ Beal.prototype.display = function(opts) {
 
 Beal.prototype.gcd = function(a,b) {
   if (!b) return a;
-    return this.gcd(b,a%b);
+  return this.gcd(b,a%b);
 }
 
 Beal.prototype.gcdMultiple = function(args) {
